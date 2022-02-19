@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**sikandarsafdar/sikandarsafdar*I am a student of Superior college Multan.
-I am the student of 1st year (Ics). * is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sikandarsafdar/sikandarsafdar*I am a student of Superior college Multan.I am the student of 1st year (Ics).
 
 Here are some ideas to get you started:
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: msikandar.safdar@gmail.com
 - ⚡ Fun fact: ...
 
--->
+
