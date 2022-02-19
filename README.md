@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**sikandarsafdar/sikandarsafdar*I am a student of Superior college Multan.I am the student of 1st year (Ics).
+I am a student of Superior college Multan.I am the student of 1st year (Ics).
 
 Here are some ideas to get you started:
 
